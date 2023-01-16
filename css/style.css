@@ -19,6 +19,7 @@ table {
     margin: auto;
     border-collapse: collapse;
     user-select: none;
+    -webkit-user-select: none;
 }
 caption {
     border: 2px solid black;
