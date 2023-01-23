@@ -1,6 +1,7 @@
 @charset "UTF-8";
+
 * {
-    margin: 0;
+    margin: 0px;
 }
 body {
     height: 100vh;
@@ -11,7 +12,7 @@ div {
     max-width: 800px;
     min-width: 320px;
     height: 100vh;
-    backgroundcolor: brown;
+    background-color: brown;
     display: flex;
 }
 table {
